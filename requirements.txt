@@ -1,0 +1,23 @@
+# Python dependencies
+python >= 3.6
+
+# Logging dependencies
+logging == 0.5.1.2
+loguru == 0.5.3
+
+# Encryption dependencies
+cryptography == 3.3.1
+pycryptodome == 3.10.1
+
+# System dependencies
+psutil == 5.8.0
+pywin32 == 228
+
+# Development dependencies
+pytest == 6.2.2
+pytest-cov == 2.12.1
+flake8 == 3.9.0
+mypy == 0.812
+
+# Optional dependencies
+pynput == 1.7.3  # for keylogger example
